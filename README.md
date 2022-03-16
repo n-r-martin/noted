@@ -4,7 +4,7 @@
   <br />
   <br />
   
-  A simple, lightweight note taking application based on nodeJS, providing the ability to read, create, and save notes to local JSON file.
+  A simple, lightweight note taking application based on nodeJS, providing the ability to read, create, save, and delete notes.
   <br />
   <br />
 
@@ -18,14 +18,14 @@
   <a name="installation"></a>
 
   ## How to Install
-  Clone the repository, run 'npm i' in the root direcotry, make sure you've started the localserver (if running locally), and open the port in your broswer. ---> also deployed on Heroku
+  Clone the repository, run 'npm i' in the root direcotry, make sure you've started a local server (if running locally), and open the port in your broswer. ---> also deployed on Heroku
   <br />
   <br />
 
   <a name="usage"></a>
 
   ## Usage
-  Just making you sure that if you've cloned the repo, to make sure you start the local server. If using the live application deployed on Heroku (link here), nothing to do!
+  Just make you sure that if you've cloned the repo, to make sure you start a local server. If using the live application deployed on Heroku (link here), nothing to do besides start organizing your thoughts!
   <br />
   <br />
 
