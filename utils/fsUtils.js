@@ -31,4 +31,19 @@ const readAndAppend = (content, file) => {
   });
 };
 
+// const readAndDelete = (content, file) => {
+//   fs.readFile(file, 'utf-8', (err, data) => {
+//     if (err) {
+//       console.error(err);
+//     } else {
+//       console.log('deleting event being picked up...');
+//       const parsedData = JSON.parse(data);
+//       // parsedData.push(content);
+//       // writeToFile(file, parsedData);
+//       console.log(parsedData.id);
+//       console.log('deleting event being picked up...');
+//     }
+//   })
+// }
+
 module.exports = { readFromFile, writeToFile, readAndAppend };
