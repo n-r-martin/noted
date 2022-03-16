@@ -41,15 +41,12 @@ notes.delete('/:id', (req, res) => {
 
   readFromFile('./db/notes.json').then((data) => {
     parsedData = JSON.parse(data);
-    console.log(parsedData);
-
     updatedNotes = parsedData.filter(note => note.id !== id);
-
-    console.log(updatedNotes);
   })
-  .then(() => writeToFile('./db/notes.json', updatedNotes))
-  .then(() => readFromFile('./db/notes.json')
-  .then((data) => res.json(JSON.parse(data))));
+  .then(() => {
+    writeToFile('./db/notes.json', updatedNotes);
+    res.json(`Note deleted successfully 🚀`);
+  })
 })
 
 
