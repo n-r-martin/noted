@@ -1,7 +1,17 @@
 [
     {
-        "title": "Test 2",
-        "text": "Testing",
-        "id": "8e95987f-86ff-4d83-b502-1038162b0d04"
+        "title": "Saving a Note",
+        "text": "You'll notice that when a text value is entered into the title field above as well as this body field, a save button dynamically displays in the top right. Use it to save your new note!",
+        "id": "1194aafb-ee4f-4528-a3ec-527f9b49ccc2"
+    },
+    {
+        "title": "View a Note",
+        "text": "After saving the note, you'll see it appear in the list to the left. Click on the note to view it here!",
+        "id": "3fb54802-6457-4152-9411-0ffb820b21ca"
+    },
+    {
+        "title": "Deleting a Note",
+        "text": "Click the trash icon for the note you want to delete and watch it dynamically drop off the list!",
+        "id": "465b7c16-e254-450c-b471-0c5ee3a2da1c"
     }
 ]
