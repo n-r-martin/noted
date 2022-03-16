@@ -76,3 +76,14 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+/* 404 Error Page Styles */
+
+#four-oh-four-wrapper {
+  width: 30%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
