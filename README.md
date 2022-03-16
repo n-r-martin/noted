@@ -5,6 +5,8 @@
   <br />
   
   A simple, lightweight note taking application based on nodeJS, providing the ability to read, create, save, and delete notes.
+
+  [Link to Application](https://ancient-woodland-71424.herokuapp.com/)
   <br />
   <br />
 
@@ -22,14 +24,14 @@
   <a name="installation"></a>
 
   ## How to Install
-  Clone the repository, run 'npm i' in the root direcotry, make sure you've started a local server (if running locally), and open the port in your broswer. ---> also deployed on Heroku
+  Clone the repository, run 'npm i' in the root direcotry, make sure you've started a local server (if running locally), and open the port in your broswer. You can also just use the [live version](https://ancient-woodland-71424.herokuapp.com/) of the app deployed on Heroku.
   <br />
   <br />
 
   <a name="usage"></a>
 
   ## Usage
-  Just make you sure that if you've cloned the repo, to make sure you start a local server. If using the live application deployed on Heroku (link here), nothing to do besides start organizing your thoughts!
+  Just make you sure that if you've cloned the repo, to make sure you start a local server. If using the [live application](https://ancient-woodland-71424.herokuapp.com/), nothing to do besides start organizing your thoughts!
   <br />
   <br />
 
