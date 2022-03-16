@@ -8,6 +8,10 @@
   <br />
   <br />
 
+   ![Image of application showing the user interface](readmeAssets/noted-screengrab.png)
+   <br />
+  <br />
+
   ##### Table of Contents  
   [How to Install](#installation)  
   [Usage](#usage)   
